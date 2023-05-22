@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <program>
     <infos>
-        <info id="version">0.1</info>
+        <info id="version">1.0.0</info>
         <info id="program_name">PyShell</info>
         <info id="available_languages">fr,en</info>
     </infos>
@@ -16,8 +16,8 @@
         <string id="file_or_folder_path_does_not_exist_1">Le chemin du fichier ou du dossier </string>
         <string id="file_or_folder_path_does_not_exist_2"> n'existe pas.</string>
         <string id="path_for_the_new_file_or_folder_does_not_exist">Le chemin pour le nouveau fichier/dossier n'existe pas.</string>
-        <string id="not_a_valid_language">Le language n'est pas une language valide.</string>
-        <string id="not_a_valid_language_1">Le language </string>
+        <string id="not_a_valid_language">Le langage saisie n'est pas une language valide.</string>
+        <string id="not_a_valid_language_1">Le langage </string>
         <string id="not_a_valid_language_2"> n'est pas une language valide.</string>
         <string id="not_a_valid_argument_1">L'argument '</string>
         <string id="not_a_valid_argument_2">' n'est pas un argument valide.</string>
@@ -25,17 +25,17 @@
         <string id="this_command_does_not_exist">La commande n'existe pas.</string>
         <string id="this_command_does_not_exist_1">La commande '</string>
         <string id="this_command_does_not_exist_2">' n'existe pas.</string>
-        <string id="bad_syntax_for_the_command">La syntaxe de la commande n’est pas correcte. </string>
+        <string id="bad_syntax_for_the_command">La syntaxe de la commande n’est pas correcte.</string>
         <string id="you_enter_too_much_arguments">Vous avez entrée trop d'arguments pour cette commande.</string>
         <string id="in_fact_this_command_take_a_number_of_arguments_1">En effet, cette commande prend </string>
         <string id="in_fact_this_command_take_a_number_of_arguments_2"> arguments.</string>
-        <string id="path_is_a_file_not_a_dir">Le chemin spécifiée est un fichier.</string>
-        <string id="path_is_a_dir_not_a_file">Le chemin spécifiée est un dossier.</string>
+        <string id="path_is_a_file_not_a_dir">Le chemin spécifié est un fichier.</string>
+        <string id="path_is_a_dir_not_a_file">Le chemin spécifié est un dossier.</string>
         <string id="path_already_exist">Le chemin existe déjà.</string>
         <string id="file_and_dir_creation_date">Date de création</string>
         <string id="file_and_dir_creation_hour">Heure de création</string>
-        <string id="file_and_dir_last_modified_date">Date de dernière modification</string>
-        <string id="file_and_dir_last_modified_hour">Heure de dernière modification</string>
+        <string id="file_and_dir_last_modified_date">Date de la dernière modification</string>
+        <string id="file_and_dir_last_modified_hour">Heure de la dernière modification</string>
         <string id="file_or_dir">Fichier ou dossier</string>
         <string id="file_and_dir_size">Taille</string>
         <string id="file_and_dir_name">Nom</string>
@@ -53,11 +53,11 @@
         <string id="help_dir">Aide sur la commande 'dir' :</string>
         <string id="help_start">Aide sur la commande 'start' :</string>
         <string id="help_execute">Aide sur la commande 'execute' :
-        La commande permet d'éxecuter des commandes du Terminal Windows 10 qui ne sont pas implantées dans le PyShell.</string>
+        La commande 'execute' permet d'éxecuter des commandes (de l'invite de commandes de Windows ou de Linux) qui ne sont pas encore implantées dans PyShell.</string>
         <string id="help_move">Aide sur la commande 'move' :</string>
         <string id="help_type">Aide sur la commande 'type' :</string>
         <string id="help_cls">Aide sur la commande 'cls' :</string>
-        <string id="help_systeminfo">Aide sur la commande 'cls' :</string>
+        <string id="help_systeminfo">Aide sur la commande 'systeminfo' :</string>
         <string id="help_title">Aide sur la commande 'title' :</string>
         <string id="help_prompt">Aide sur la commande 'prompt' :</string>
         <string id="help_regedit">Aide sur la commande 'regedit' :</string>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<program>
+    <infos>
+        <info id="version">1.0.0</info>
+        <info id="program_name">PyShell</info>
+        <info id="available_languages">fr,en</info>
+    </infos>
+    <strings>
+        <string id="error_message">Error :</string>
+        <string id="path_does_not_exist">The path doesn't exist.</string>
+        <string id="path_does_not_exist_1">The path </string>
+        <string id="path_does_not_exist_2"> doesn't exist.</string>
+        <string id="file_path_does_not_exist">The file doesn't exist.</string>
+        <string id="file_path_does_not_exist_1">The file </string>
+        <string id="file_path_does_not_exist_2"> doesn't exist.</string>
+        <string id="file_or_folder_path_does_not_exist_1">The file or folder path </string>
+        <string id="file_or_folder_path_does_not_exist_2"> doesn't exist.</string>
+        <string id="path_for_the_new_file_or_folder_does_not_exist">The path for the new file/folder doesn't exist.</string>
+        <string id="not_a_valid_language">The input language is not a valid language.</string>
+        <string id="not_a_valid_language_1">The language </string>
+        <string id="not_a_valid_language_2"> is not a valid language.</string>
+        <string id="not_a_valid_argument_1">The argument '</string>
+        <string id="not_a_valid_argument_2">' is not a valid argument.</string>
+        <string id="can't_do_cd.._in_disk_root">You cannot go back up the folder tree when you are at the root of the disk.</string>
+        <string id="this_command_does_not_exist">The command doesn't exist.</string>
+        <string id="this_command_does_not_exist_1">The command '</string>
+        <string id="this_command_does_not_exist_2">' doesn't exist.</string>
+        <string id="bad_syntax_for_the_command">The command syntax is incorrect.</string>
+        <string id="you_enter_too_much_arguments">You entered too many arguments for this command.</string>
+        <string id="in_fact_this_command_take_a_number_of_arguments_1">Indeed, this command takes </string>
+        <string id="in_fact_this_command_take_a_number_of_arguments_2"> arguments.</string>
+        <string id="path_is_a_file_not_a_dir">The specified path is a file.</string>
+        <string id="path_is_a_dir_not_a_file">The specified path is a folder.</string>
+        <string id="path_already_exist">The path already exists.</string>
+        <string id="file_and_dir_creation_date">Creation date</string>
+        <string id="file_and_dir_creation_hour">Time of creation</string>
+        <string id="file_and_dir_last_modified_date">Date of last modification</string>
+        <string id="file_and_dir_last_modified_hour">Last modified time</string>
+        <string id="file_or_dir">File or folder</string>
+        <string id="file_and_dir_size">Size</string>
+        <string id="file_and_dir_name">Name</string>
+        <string id="file">File</string>
+        <string id="folder">Folder</string>
+        <string id="no_file_or_folder_in_the_path">There are no files or folders in the specified path.</string>
+        <string id="this_command_is_not_available_for_linux">This command is not available for Linux.</string>
+        <string id="you_dont_have_permissions_to_this_path">You do not have the necessary permissions for the following path :</string>
+        <string id="help_message">Help :</string>
+        <string id="help_help">Help on the 'help' command :</string>
+        <string id="help_cd">Help on the 'cd' command :</string>
+        <string id="help_rmdir">Help on the 'rmdir' command :</string>
+        <string id="help_mkdir">Help on the 'mkdir' command :</string>
+        <string id="help_delete">Help on the 'delete' command :</string>
+        <string id="help_dir">Help on the 'dir' command :</string>
+        <string id="help_start">Help on the 'start' command :</string>
+        <string id="help_execute">Help on the 'execute' command : :
+        The 'execute' command allows you to execute commands (from the command prompt of Windows or Linux) which are not yet implemented in PyShell.</string>
+        <string id="help_move">Help on the 'move' command :</string>
+        <string id="help_type">Help on the 'type' command :</string>
+        <string id="help_cls">Help on the 'cls' command :</string>
+        <string id="help_systeminfo">Help on the 'systeminfo' command :</string>
+        <string id="help_title">Help on the 'title' command :</string>
+        <string id="help_prompt">Help on the 'prompt' command :</string>
+        <string id="help_regedit">Help on the 'regedit' command :</string>
+        <string id="help_color">Help on the 'color' command :</string>
+        <string id="help_sfc">Help on the 'sfc' command :</string>
+        <string id="help_tree">Help on the 'tree' command :</string>
+        <string id="help_nslookup">Help on the 'nslookup' command :</string>
+        <string id="help_tasklist">Help on the 'tasklist' command :</string>
+    </strings>
+</program>
